@@ -1,0 +1,1 @@
+export { expensesRoute } from './expenses.ts';
